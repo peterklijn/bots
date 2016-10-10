@@ -1,0 +1,5 @@
+CherryPy==3.2.0
+Django==1.4.6
+Genshi==0.7
+pycrypto==2.6.1
+xlrd==1.0.0
