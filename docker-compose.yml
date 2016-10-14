@@ -1,0 +1,9 @@
+ version: '2'
+ services:
+   bots:
+     build: .
+     command: python bots-webserver.py
+     volumes:
+       - .:/code
+     ports:
+       - "8080:8080"
