@@ -2,7 +2,7 @@
  services:
    bots:
      build: .
-     command: python bots-webserver.py
+     command: ["python", "bots-webserver.py"]
      volumes:
        - .:/code
      ports:
