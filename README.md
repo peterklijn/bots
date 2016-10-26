@@ -22,3 +22,5 @@ cd /vagrant
 
 
 goto http://localhost:8080 in the browser of your dev machine
+
+Log in with username `bots` and password `botsbots` ([source](http://botsdocs.readthedocs.io/en/latest/get-bots-running.html#start-bots-monitor-using-bots-webserver))
